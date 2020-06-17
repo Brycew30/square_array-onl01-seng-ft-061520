@@ -5,10 +5,3 @@ def square_array(array)
  end
 return new_numbers
 end
-
-def square_array(array)
- array.collect do |number|
-   puts number ** 2
- number ** 2
- end
-end
