@@ -6,3 +6,7 @@ def square_array(array)
 return new_numbers
 end
 
+def square_array(array)
+
+
+end
